@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on UB Fashion - Your partner for professional models</title>
+    <link>https://examplesite.com/about/</link>
+    <description>Recent content in Abouts on UB Fashion - Your partner for professional models</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>https://examplesite.com/about/about/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://examplesite.com/about/about/</guid>
+      <description>Als Model- &amp;amp; Castingagentur in Wien und Graz vermittelt UB Fashion Casting in Wien und Graz und Umgebung Models, Schauspieler, Kleindarsteller, Komparsen, Moderatoren, TV-Kandidaten und andere Faces für Projekte im Bereich FERNSEHEN &amp;amp; WERBUNG.</description>
+    </item>
+    
+  </channel>
+</rss>

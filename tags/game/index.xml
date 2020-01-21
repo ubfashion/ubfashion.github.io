@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on UB Fashion - Your partner for professional models</title>
+    <link>https://examplesite.com/tags/game/</link>
+    <description>Recent content in Game on UB Fashion - Your partner for professional models</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/tags/game/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aktshooting 23.06.2019</title>
+      <link>https://examplesite.com/blog/post-3/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/post-3/</guid>
+      <description>Aktshooting. 23.06.2019 Achtung! Nur Erwachsene über 18 Jahren dürfen fortfahren.</description>
+    </item>
+    
+    <item>
+      <title>Bademoden Alba Moda</title>
+      <link>https://examplesite.com/blog/post-2/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/post-2/</guid>
+      <description> Bademoden Alba Moda Shoot in Wien, Österreich. 14.05.2019 </description>
+    </item>
+    
+    <item>
+      <title>Trachtengala Kärnten 2019</title>
+      <link>https://examplesite.com/blog/post-1/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/post-1/</guid>
+      <description> Trachetenshooting in Villach, Kärnten. 29.10.2020 </description>
+    </item>
+    
+  </channel>
+</rss>
